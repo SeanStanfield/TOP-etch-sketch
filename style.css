@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.boxclass {
+  border-bottom: solid black 1px;
+  border-right: solid black 1px;
+  background-color: aqua;
+}
